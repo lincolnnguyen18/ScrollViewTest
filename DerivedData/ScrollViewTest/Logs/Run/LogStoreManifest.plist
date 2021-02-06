@@ -108,6 +108,40 @@
 			<key>uniqueIdentifier</key>
 			<string>288707C1-5349-4C97-BD4A-C6AF6EEF347C</string>
 		</dict>
+		<key>5C11F876-097B-471C-A5F7-DCF1F7DFE74C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5C11F876-097B-471C-A5F7-DCF1F7DFE74C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ScrollViewTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ScrollViewTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ScrollViewTest</string>
+			<key>timeStartedRecording</key>
+			<real>634327538.68380404</real>
+			<key>timeStoppedRecording</key>
+			<real>634327768.90447402</real>
+			<key>title</key>
+			<string>Run ScrollViewTest</string>
+			<key>uniqueIdentifier</key>
+			<string>5C11F876-097B-471C-A5F7-DCF1F7DFE74C</string>
+		</dict>
 		<key>73CB0345-D312-4607-A226-E4AFD41EED9B</key>
 		<dict>
 			<key>className</key>
