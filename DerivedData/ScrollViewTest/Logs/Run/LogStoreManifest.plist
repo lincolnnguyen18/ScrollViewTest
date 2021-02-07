@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>0706B32D-284A-438D-B06F-9F1F7964E0FA</key>
+		<key>19F97F32-712D-4857-8F1C-7669BA1CA908</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>0706B32D-284A-438D-B06F-9F1F7964E0FA.xcactivitylog</string>
+			<string>19F97F32-712D-4857-8F1C-7669BA1CA908.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +32,15 @@
 			<key>signature</key>
 			<string>Run ScrollViewTest</string>
 			<key>timeStartedRecording</key>
-			<real>634354367.84297001</real>
+			<real>634367045.94117403</real>
 			<key>timeStoppedRecording</key>
-			<real>634355661.29438806</real>
+			<real>634367057.14213395</real>
 			<key>title</key>
 			<string>Run ScrollViewTest</string>
 			<key>uniqueIdentifier</key>
-			<string>0706B32D-284A-438D-B06F-9F1F7964E0FA</string>
+			<string>19F97F32-712D-4857-8F1C-7669BA1CA908</string>
 		</dict>
-		<key>156B4265-ED85-4914-A55F-8F00787EAF7A</key>
+		<key>1EF6B7F6-E7D0-48E7-A2A2-39DC7BDBC6E9</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -49,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>156B4265-ED85-4914-A55F-8F00787EAF7A.xcactivitylog</string>
+			<string>1EF6B7F6-E7D0-48E7-A2A2-39DC7BDBC6E9.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,13 +66,47 @@
 			<key>signature</key>
 			<string>Run ScrollViewTest</string>
 			<key>timeStartedRecording</key>
-			<real>634355894.50922406</real>
+			<real>634369234.03973103</real>
 			<key>timeStoppedRecording</key>
-			<real>634355945.21765196</real>
+			<real>634369331.42911804</real>
 			<key>title</key>
 			<string>Run ScrollViewTest</string>
 			<key>uniqueIdentifier</key>
-			<string>156B4265-ED85-4914-A55F-8F00787EAF7A</string>
+			<string>1EF6B7F6-E7D0-48E7-A2A2-39DC7BDBC6E9</string>
+		</dict>
+		<key>2107831D-9E83-41BA-9D94-A1E6EFDF5AA9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2107831D-9E83-41BA-9D94-A1E6EFDF5AA9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ScrollViewTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ScrollViewTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ScrollViewTest</string>
+			<key>timeStartedRecording</key>
+			<real>634369208.29120195</real>
+			<key>timeStoppedRecording</key>
+			<real>634369233.71619904</real>
+			<key>title</key>
+			<string>Run ScrollViewTest</string>
+			<key>uniqueIdentifier</key>
+			<string>2107831D-9E83-41BA-9D94-A1E6EFDF5AA9</string>
 		</dict>
 		<key>370CB756-01BF-4386-B326-EA41D1EC0287</key>
 		<dict>
@@ -108,7 +142,7 @@
 			<key>uniqueIdentifier</key>
 			<string>370CB756-01BF-4386-B326-EA41D1EC0287</string>
 		</dict>
-		<key>644863FA-0F55-4545-9A59-34F17123F0C8</key>
+		<key>3B74DEBF-8A1E-45B5-B7D0-909A86CB5547</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -117,7 +151,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>644863FA-0F55-4545-9A59-34F17123F0C8.xcactivitylog</string>
+			<string>3B74DEBF-8A1E-45B5-B7D0-909A86CB5547.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -134,15 +168,15 @@
 			<key>signature</key>
 			<string>Run ScrollViewTest</string>
 			<key>timeStartedRecording</key>
-			<real>634355667.21739304</real>
+			<real>634367262.45224905</real>
 			<key>timeStoppedRecording</key>
-			<real>634355708.77618802</real>
+			<real>634367789.39544499</real>
 			<key>title</key>
 			<string>Run ScrollViewTest</string>
 			<key>uniqueIdentifier</key>
-			<string>644863FA-0F55-4545-9A59-34F17123F0C8</string>
+			<string>3B74DEBF-8A1E-45B5-B7D0-909A86CB5547</string>
 		</dict>
-		<key>95B5E3EA-187B-4E1C-BF57-79973247205F</key>
+		<key>5084F37A-06E7-4605-9610-D5FB7E524C53</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -151,7 +185,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>95B5E3EA-187B-4E1C-BF57-79973247205F.xcactivitylog</string>
+			<string>5084F37A-06E7-4605-9610-D5FB7E524C53.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -168,15 +202,15 @@
 			<key>signature</key>
 			<string>Run ScrollViewTest</string>
 			<key>timeStartedRecording</key>
-			<real>634354335.47377896</real>
+			<real>634367057.43445396</real>
 			<key>timeStoppedRecording</key>
-			<real>634354356.55191398</real>
+			<real>634367257.343593</real>
 			<key>title</key>
 			<string>Run ScrollViewTest</string>
 			<key>uniqueIdentifier</key>
-			<string>95B5E3EA-187B-4E1C-BF57-79973247205F</string>
+			<string>5084F37A-06E7-4605-9610-D5FB7E524C53</string>
 		</dict>
-		<key>9F76BECB-9284-4A06-B229-85534F183C4F</key>
+		<key>A65A0F20-632F-4BE0-B301-0C6D1893CA6A</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -185,7 +219,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>9F76BECB-9284-4A06-B229-85534F183C4F.xcactivitylog</string>
+			<string>A65A0F20-632F-4BE0-B301-0C6D1893CA6A.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -202,15 +236,15 @@
 			<key>signature</key>
 			<string>Run ScrollViewTest</string>
 			<key>timeStartedRecording</key>
-			<real>634354297.34074497</real>
+			<real>634369331.94972599</real>
 			<key>timeStoppedRecording</key>
-			<real>634354333.418643</real>
+			<real>634369351.57954597</real>
 			<key>title</key>
 			<string>Run ScrollViewTest</string>
 			<key>uniqueIdentifier</key>
-			<string>9F76BECB-9284-4A06-B229-85534F183C4F</string>
+			<string>A65A0F20-632F-4BE0-B301-0C6D1893CA6A</string>
 		</dict>
-		<key>A508FAD7-D6FE-4AAE-9667-AC100F54F87D</key>
+		<key>C0E7888E-CDEC-482B-941C-136FE55506D5</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -219,7 +253,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>A508FAD7-D6FE-4AAE-9667-AC100F54F87D.xcactivitylog</string>
+			<string>C0E7888E-CDEC-482B-941C-136FE55506D5.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -236,15 +270,15 @@
 			<key>signature</key>
 			<string>Run ScrollViewTest</string>
 			<key>timeStartedRecording</key>
-			<real>634355945.54622495</real>
+			<real>634367794.385602</real>
 			<key>timeStoppedRecording</key>
-			<real>634355962.283162</real>
+			<real>634368496.62868404</real>
 			<key>title</key>
 			<string>Run ScrollViewTest</string>
 			<key>uniqueIdentifier</key>
-			<string>A508FAD7-D6FE-4AAE-9667-AC100F54F87D</string>
+			<string>C0E7888E-CDEC-482B-941C-136FE55506D5</string>
 		</dict>
-		<key>B60F50E2-54B8-44EE-AC92-7BC45669CF3A</key>
+		<key>D6BB856C-BFDD-490A-AA4E-3D609C08362E</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -253,7 +287,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>B60F50E2-54B8-44EE-AC92-7BC45669CF3A.xcactivitylog</string>
+			<string>D6BB856C-BFDD-490A-AA4E-3D609C08362E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -270,15 +304,15 @@
 			<key>signature</key>
 			<string>Run ScrollViewTest</string>
 			<key>timeStartedRecording</key>
-			<real>634354358.10243297</real>
+			<real>634368524.43157101</real>
 			<key>timeStoppedRecording</key>
-			<real>634354366.90355206</real>
+			<real>634369207.68716705</real>
 			<key>title</key>
 			<string>Run ScrollViewTest</string>
 			<key>uniqueIdentifier</key>
-			<string>B60F50E2-54B8-44EE-AC92-7BC45669CF3A</string>
+			<string>D6BB856C-BFDD-490A-AA4E-3D609C08362E</string>
 		</dict>
-		<key>B6E941B7-3FE1-4FD9-BB38-C6E76A6F5C99</key>
+		<key>DF0C66D8-523E-440A-BB60-34C871BE446B</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -287,7 +321,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>B6E941B7-3FE1-4FD9-BB38-C6E76A6F5C99.xcactivitylog</string>
+			<string>DF0C66D8-523E-440A-BB60-34C871BE446B.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -304,15 +338,15 @@
 			<key>signature</key>
 			<string>Run ScrollViewTest</string>
 			<key>timeStartedRecording</key>
-			<real>634356399.28624403</real>
+			<real>634366721.92856896</real>
 			<key>timeStoppedRecording</key>
-			<real>634356453.38826394</real>
+			<real>634366743.12080395</real>
 			<key>title</key>
 			<string>Run ScrollViewTest</string>
 			<key>uniqueIdentifier</key>
-			<string>B6E941B7-3FE1-4FD9-BB38-C6E76A6F5C99</string>
+			<string>DF0C66D8-523E-440A-BB60-34C871BE446B</string>
 		</dict>
-		<key>E18834AA-5F72-482E-A591-4E55DF7EF6AD</key>
+		<key>FF7E46D7-13EA-4884-B34F-A814CDEFB90C</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -321,7 +355,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>E18834AA-5F72-482E-A591-4E55DF7EF6AD.xcactivitylog</string>
+			<string>FF7E46D7-13EA-4884-B34F-A814CDEFB90C.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -338,81 +372,13 @@
 			<key>signature</key>
 			<string>Run ScrollViewTest</string>
 			<key>timeStartedRecording</key>
-			<real>634327999.94851601</real>
+			<real>634368501.88880002</real>
 			<key>timeStoppedRecording</key>
-			<real>634328092.692783</real>
+			<real>634368524.19559896</real>
 			<key>title</key>
 			<string>Run ScrollViewTest</string>
 			<key>uniqueIdentifier</key>
-			<string>E18834AA-5F72-482E-A591-4E55DF7EF6AD</string>
-		</dict>
-		<key>F7F04F94-62A0-421E-B524-5A6AEBC0999C</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>F7F04F94-62A0-421E-B524-5A6AEBC0999C.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>ScrollViewTest project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>ScrollViewTest</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run ScrollViewTest</string>
-			<key>timeStartedRecording</key>
-			<real>634356028.37339902</real>
-			<key>timeStoppedRecording</key>
-			<real>634356394.324368</real>
-			<key>title</key>
-			<string>Run ScrollViewTest</string>
-			<key>uniqueIdentifier</key>
-			<string>F7F04F94-62A0-421E-B524-5A6AEBC0999C</string>
-		</dict>
-		<key>FF760F46-0C99-47C3-924F-DBD12E014D75</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>FF760F46-0C99-47C3-924F-DBD12E014D75.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>ScrollViewTest project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>ScrollViewTest</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run ScrollViewTest</string>
-			<key>timeStartedRecording</key>
-			<real>634355962.62108803</real>
-			<key>timeStoppedRecording</key>
-			<real>634356028.07045805</real>
-			<key>title</key>
-			<string>Run ScrollViewTest</string>
-			<key>uniqueIdentifier</key>
-			<string>FF760F46-0C99-47C3-924F-DBD12E014D75</string>
+			<string>FF7E46D7-13EA-4884-B34F-A814CDEFB90C</string>
 		</dict>
 	</dict>
 </dict>
