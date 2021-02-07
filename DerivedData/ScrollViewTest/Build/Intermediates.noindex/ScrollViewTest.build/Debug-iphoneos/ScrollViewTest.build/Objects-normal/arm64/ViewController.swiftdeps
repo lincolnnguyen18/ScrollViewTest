@@ -10,27 +10,46 @@ provides-dynamic-lookup:
 - "textLabel"
 - "viewDidLoad"
 depends-top-level:
+- "AssignmentPrecedence"
+- !private "StringLiteralType"
 - "UILabel"
 - "UIScrollView"
 - "UIViewController"
 - "ViewController"
+- !private "textLabel"
 depends-member:
 - ["SK", ""]
+- !private ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "text"]
 - ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "textLabel"]
 - !private ["s7CVarArgP", "viewDidLoad"]
 - ["Sl", ""]
 - ["SL", ""]
 - ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "textLabel"]
 - !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s17CustomReflectableP", "text"]
 - ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "textLabel"]
 - !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "text"]
+- !private ["SE", "text"]
 - ["SQ", ""]
+- !private ["SQ", "text"]
+- !private ["SQ", "textLabel"]
 - !private ["SQ", "viewDidLoad"]
 - ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
 - ["s32ExpressibleByStringInterpolationP", ""]
 - ["s26ExpressibleByStringLiteralP", ""]
 - ["s33ExpressibleByUnicodeScalarLiteralP", ""]
 - ["SH", ""]
+- !private ["SH", "text"]
+- !private ["SH", "textLabel"]
 - !private ["SH", "viewDidLoad"]
 - ["s25LosslessStringConvertibleP", ""]
 - ["So8NSCodingP", "UILabel"]
@@ -38,6 +57,7 @@ depends-member:
 - ["So8NSCodingP", ""]
 - ["So8NSCodingP", "init"]
 - ["So8NSCodingP", "scrollView"]
+- !private ["So8NSCodingP", "text"]
 - ["So8NSCodingP", "textLabel"]
 - ["So8NSCodingP", "viewDidLoad"]
 - ["So26NSExtensionRequestHandlingP", "UILabel"]
@@ -52,6 +72,7 @@ depends-member:
 - ["So8NSObjectC", ""]
 - ["So8NSObjectC", "init"]
 - ["So8NSObjectC", "scrollView"]
+- !private ["So8NSObjectC", "text"]
 - ["So8NSObjectC", "textLabel"]
 - ["So8NSObjectC", "viewDidLoad"]
 - ["So8NSObjectP", "UILabel"]
@@ -59,16 +80,23 @@ depends-member:
 - ["So8NSObjectP", ""]
 - ["So8NSObjectP", "init"]
 - ["So8NSObjectP", "scrollView"]
+- !private ["So8NSObjectP", "text"]
 - ["So8NSObjectP", "textLabel"]
 - ["So8NSObjectP", "viewDidLoad"]
+- !private ["Sq", "text"]
 - ["ST", ""]
 - ["s16TextOutputStreamP", ""]
 - ["s20TextOutputStreamableP", ""]
+- !private ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "text"]
 - ["So21UIAppearanceContainerP", "UILabel"]
 - ["So21UIAppearanceContainerP", "UIScrollView"]
 - ["So21UIAppearanceContainerP", ""]
 - ["So21UIAppearanceContainerP", "init"]
 - ["So21UIAppearanceContainerP", "scrollView"]
+- !private ["So21UIAppearanceContainerP", "text"]
 - ["So21UIAppearanceContainerP", "textLabel"]
 - ["So21UIAppearanceContainerP", "viewDidLoad"]
 - ["So18UIContentContainerP", "UILabel"]
@@ -78,19 +106,32 @@ depends-member:
 - ["So18UIContentContainerP", "scrollView"]
 - ["So18UIContentContainerP", "textLabel"]
 - ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "text"]
 - ["So18UIFocusEnvironmentP", "UILabel"]
 - ["So18UIFocusEnvironmentP", "UIScrollView"]
 - ["So18UIFocusEnvironmentP", ""]
 - ["So18UIFocusEnvironmentP", "init"]
 - ["So18UIFocusEnvironmentP", "scrollView"]
+- !private ["So18UIFocusEnvironmentP", "text"]
 - ["So18UIFocusEnvironmentP", "textLabel"]
 - ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "text"]
 - ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So7UILabelC", "text"]
+- !private ["So24UILargeContentViewerItemP", ""]
+- !private ["So24UILargeContentViewerItemP", "text"]
 - ["So30UIPasteConfigurationSupportingP", "UILabel"]
 - ["So30UIPasteConfigurationSupportingP", "UIScrollView"]
 - ["So30UIPasteConfigurationSupportingP", ""]
 - ["So30UIPasteConfigurationSupportingP", "init"]
 - ["So30UIPasteConfigurationSupportingP", "scrollView"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
 - ["So30UIPasteConfigurationSupportingP", "textLabel"]
 - ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
 - ["So11UIResponderC", "UILabel"]
@@ -98,6 +139,7 @@ depends-member:
 - ["So11UIResponderC", ""]
 - ["So11UIResponderC", "init"]
 - ["So11UIResponderC", "scrollView"]
+- !private ["So11UIResponderC", "text"]
 - ["So11UIResponderC", "textLabel"]
 - ["So11UIResponderC", "viewDidLoad"]
 - ["So30UIResponderStandardEditActionsP", "UILabel"]
@@ -105,6 +147,7 @@ depends-member:
 - ["So30UIResponderStandardEditActionsP", ""]
 - ["So30UIResponderStandardEditActionsP", "init"]
 - ["So30UIResponderStandardEditActionsP", "scrollView"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
 - ["So30UIResponderStandardEditActionsP", "textLabel"]
 - ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
 - ["So16UIStateRestoringP", "UILabel"]
@@ -119,6 +162,7 @@ depends-member:
 - ["So18UITraitEnvironmentP", ""]
 - ["So18UITraitEnvironmentP", "init"]
 - ["So18UITraitEnvironmentP", "scrollView"]
+- !private ["So18UITraitEnvironmentP", "text"]
 - ["So18UITraitEnvironmentP", "textLabel"]
 - ["So18UITraitEnvironmentP", "viewDidLoad"]
 - ["So23UIUserActivityRestoringP", "UILabel"]
@@ -126,8 +170,11 @@ depends-member:
 - ["So23UIUserActivityRestoringP", ""]
 - ["So23UIUserActivityRestoringP", "init"]
 - ["So23UIUserActivityRestoringP", "scrollView"]
+- !private ["So23UIUserActivityRestoringP", "text"]
 - ["So23UIUserActivityRestoringP", "textLabel"]
 - ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- ["So6UIViewC", ""]
+- !private ["So6UIViewC", "text"]
 - ["So16UIViewControllerC", "UILabel"]
 - ["So16UIViewControllerC", "UIScrollView"]
 - ["So16UIViewControllerC", ""]
@@ -144,20 +191,33 @@ depends-member:
 - ["14ScrollViewTest0B10ControllerC", "textLabel"]
 - ["14ScrollViewTest0B10ControllerC", "viewDidLoad"]
 - ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
 - ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
 - ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "textLabel"]
 - !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
 - ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "text"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "textLabel"]
 - !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
 depends-nominal:
 - "SK"
+- !private "So15CALayerDelegateP"
 - "s7CVarArgP"
 - "Sl"
 - "SL"
 - "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
 - "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
 - "SQ"
 - "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
 - "s32ExpressibleByStringInterpolationP"
 - "s26ExpressibleByStringLiteralP"
 - "s33ExpressibleByUnicodeScalarLiteralP"
@@ -167,25 +227,39 @@ depends-nominal:
 - "So26NSExtensionRequestHandlingP"
 - "So8NSObjectC"
 - "So8NSObjectP"
+- !private "Sq"
 - "ST"
 - "s16TextOutputStreamP"
 - "s20TextOutputStreamableP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
 - "So21UIAppearanceContainerP"
 - "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
 - "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
 - "So20UIFocusItemContainerP"
+- !private "So7UILabelC"
+- !private "So24UILargeContentViewerItemP"
 - "So30UIPasteConfigurationSupportingP"
 - "So11UIResponderC"
 - "So30UIResponderStandardEditActionsP"
 - "So16UIStateRestoringP"
 - "So18UITraitEnvironmentP"
 - "So23UIUserActivityRestoringP"
+- "So6UIViewC"
 - "So16UIViewControllerC"
 - "14ScrollViewTest0B10ControllerC"
 - "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
 - "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
 - "10Foundation27_KeyValueCodingAndObservingP"
 - "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
 depends-dynamic-lookup:
 depends-external:
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/ObjectiveC.swiftmodule/arm64-apple-ios.swiftmodule"
