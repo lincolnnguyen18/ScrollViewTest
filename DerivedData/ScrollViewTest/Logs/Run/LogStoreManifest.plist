@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>3D36EC77-5627-4D53-9945-796F8B7A6FA8</key>
+		<key>370CB756-01BF-4386-B326-EA41D1EC0287</key>
 		<dict>
 			<key>className</key>
 			<string>DBGConsoleLog</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
 			<key>fileName</key>
-			<string>3D36EC77-5627-4D53-9945-796F8B7A6FA8.xcactivitylog</string>
+			<string>370CB756-01BF-4386-B326-EA41D1EC0287.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,115 +32,13 @@
 			<key>signature</key>
 			<string>Run ScrollViewTest</string>
 			<key>timeStartedRecording</key>
-			<real>634361508.42379105</real>
+			<real>634356453.63256705</real>
 			<key>timeStoppedRecording</key>
-			<real>634361525.07914102</real>
+			<real>634356463.54972196</real>
 			<key>title</key>
 			<string>Run ScrollViewTest</string>
 			<key>uniqueIdentifier</key>
-			<string>3D36EC77-5627-4D53-9945-796F8B7A6FA8</string>
-		</dict>
-		<key>460E8490-D7E7-40FD-ABEA-E64982FCCE14</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>460E8490-D7E7-40FD-ABEA-E64982FCCE14.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>ScrollViewTest project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>ScrollViewTest</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run ScrollViewTest</string>
-			<key>timeStartedRecording</key>
-			<real>634361212.98022604</real>
-			<key>timeStoppedRecording</key>
-			<real>634361360.05419397</real>
-			<key>title</key>
-			<string>Run ScrollViewTest</string>
-			<key>uniqueIdentifier</key>
-			<string>460E8490-D7E7-40FD-ABEA-E64982FCCE14</string>
-		</dict>
-		<key>474A9EC9-38DE-41CD-8340-20B799CCEA90</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>474A9EC9-38DE-41CD-8340-20B799CCEA90.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>ScrollViewTest project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>ScrollViewTest</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run ScrollViewTest</string>
-			<key>timeStartedRecording</key>
-			<real>634361546.57990098</real>
-			<key>timeStoppedRecording</key>
-			<real>634361580.25544596</real>
-			<key>title</key>
-			<string>Run ScrollViewTest</string>
-			<key>uniqueIdentifier</key>
-			<string>474A9EC9-38DE-41CD-8340-20B799CCEA90</string>
-		</dict>
-		<key>832DEAAE-008E-4591-9812-C704D6F497F0</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>832DEAAE-008E-4591-9812-C704D6F497F0.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>ScrollViewTest project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>ScrollViewTest</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run ScrollViewTest</string>
-			<key>timeStartedRecording</key>
-			<real>634361183.45137095</real>
-			<key>timeStoppedRecording</key>
-			<real>634361212.38613999</real>
-			<key>title</key>
-			<string>Run ScrollViewTest</string>
-			<key>uniqueIdentifier</key>
-			<string>832DEAAE-008E-4591-9812-C704D6F497F0</string>
+			<string>370CB756-01BF-4386-B326-EA41D1EC0287</string>
 		</dict>
 		<key>87D8AF2A-CAF1-4297-879C-B3EAFF4FDEF7</key>
 		<dict>
@@ -175,74 +73,6 @@
 			<string>Run ScrollViewTest</string>
 			<key>uniqueIdentifier</key>
 			<string>87D8AF2A-CAF1-4297-879C-B3EAFF4FDEF7</string>
-		</dict>
-		<key>9A61F753-9A8F-45F2-AF8E-A65D0B95FE09</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>9A61F753-9A8F-45F2-AF8E-A65D0B95FE09.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>ScrollViewTest project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>ScrollViewTest</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run ScrollViewTest</string>
-			<key>timeStartedRecording</key>
-			<real>634361360.64793599</real>
-			<key>timeStoppedRecording</key>
-			<real>634361397.857602</real>
-			<key>title</key>
-			<string>Run ScrollViewTest</string>
-			<key>uniqueIdentifier</key>
-			<string>9A61F753-9A8F-45F2-AF8E-A65D0B95FE09</string>
-		</dict>
-		<key>9D57F3C9-56FE-4842-83F0-755706064A97</key>
-		<dict>
-			<key>className</key>
-			<string>DBGConsoleLog</string>
-			<key>documentTypeString</key>
-			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
-			<key>fileName</key>
-			<string>9D57F3C9-56FE-4842-83F0-755706064A97.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>ScrollViewTest project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>ScrollViewTest</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Run ScrollViewTest</string>
-			<key>timeStartedRecording</key>
-			<real>634361398.18485296</real>
-			<key>timeStoppedRecording</key>
-			<real>634361505.00704706</real>
-			<key>title</key>
-			<string>Run ScrollViewTest</string>
-			<key>uniqueIdentifier</key>
-			<string>9D57F3C9-56FE-4842-83F0-755706064A97</string>
 		</dict>
 	</dict>
 </dict>
