@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>0FDC2A8B-F67C-4B68-BBA7-F7985FC39EA8</key>
+		<key>20669E1A-EFA4-4E0E-A020-F048198A1E89</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,41 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>0FDC2A8B-F67C-4B68-BBA7-F7985FC39EA8.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>ScrollViewTest project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>ScrollViewTest</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build ScrollViewTest</string>
-			<key>timeStartedRecording</key>
-			<real>634327309.49863398</real>
-			<key>timeStoppedRecording</key>
-			<real>634327316.51162004</real>
-			<key>title</key>
-			<string>Build ScrollViewTest</string>
-			<key>uniqueIdentifier</key>
-			<string>0FDC2A8B-F67C-4B68-BBA7-F7985FC39EA8</string>
-		</dict>
-		<key>1FED1197-AC0C-4112-9CEC-A28383029AE8</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>1FED1197-AC0C-4112-9CEC-A28383029AE8.xcactivitylog</string>
+			<string>20669E1A-EFA4-4E0E-A020-F048198A1E89.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -66,15 +32,15 @@
 			<key>signature</key>
 			<string>Build ScrollViewTest</string>
 			<key>timeStartedRecording</key>
-			<real>634327338.26302397</real>
+			<real>634354356.31014895</real>
 			<key>timeStoppedRecording</key>
-			<real>634327339.48204994</real>
+			<real>634354358.09685397</real>
 			<key>title</key>
 			<string>Build ScrollViewTest</string>
 			<key>uniqueIdentifier</key>
-			<string>1FED1197-AC0C-4112-9CEC-A28383029AE8</string>
+			<string>20669E1A-EFA4-4E0E-A020-F048198A1E89</string>
 		</dict>
-		<key>4D0E681C-9E40-4766-902A-4FD87C8FD9C9</key>
+		<key>37773E88-C362-47D9-A4E9-9CC2A1096107</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -83,7 +49,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>4D0E681C-9E40-4766-902A-4FD87C8FD9C9.xcactivitylog</string>
+			<string>37773E88-C362-47D9-A4E9-9CC2A1096107.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -100,15 +66,15 @@
 			<key>signature</key>
 			<string>Build ScrollViewTest</string>
 			<key>timeStartedRecording</key>
-			<real>634327536.96925795</real>
+			<real>634354366.66600597</real>
 			<key>timeStoppedRecording</key>
-			<real>634327538.66669095</real>
+			<real>634354367.83637094</real>
 			<key>title</key>
 			<string>Build ScrollViewTest</string>
 			<key>uniqueIdentifier</key>
-			<string>4D0E681C-9E40-4766-902A-4FD87C8FD9C9</string>
+			<string>37773E88-C362-47D9-A4E9-9CC2A1096107</string>
 		</dict>
-		<key>6E589A7B-D257-4C02-B743-36CD56DEE598</key>
+		<key>539799D0-FB7A-455F-B8AC-1B9D509E2F0D</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -117,7 +83,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>6E589A7B-D257-4C02-B743-36CD56DEE598.xcactivitylog</string>
+			<string>539799D0-FB7A-455F-B8AC-1B9D509E2F0D.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -134,15 +100,15 @@
 			<key>signature</key>
 			<string>Build ScrollViewTest</string>
 			<key>timeStartedRecording</key>
-			<real>634327400.25574005</real>
+			<real>634354290.05616105</real>
 			<key>timeStoppedRecording</key>
-			<real>634327401.09338105</real>
+			<real>634354297.32167196</real>
 			<key>title</key>
 			<string>Build ScrollViewTest</string>
 			<key>uniqueIdentifier</key>
-			<string>6E589A7B-D257-4C02-B743-36CD56DEE598</string>
+			<string>539799D0-FB7A-455F-B8AC-1B9D509E2F0D</string>
 		</dict>
-		<key>7DF4588C-B8B2-4189-A456-CF34F517DDF1</key>
+		<key>AEDC8840-AF41-4A75-9503-B9CE6AD7022B</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -151,177 +117,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>7DF4588C-B8B2-4189-A456-CF34F517DDF1.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>ScrollViewTest project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>ScrollViewTest</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build ScrollViewTest</string>
-			<key>timeStartedRecording</key>
-			<real>634326782.08215404</real>
-			<key>timeStoppedRecording</key>
-			<real>634326786.01299703</real>
-			<key>title</key>
-			<string>Build ScrollViewTest</string>
-			<key>uniqueIdentifier</key>
-			<string>7DF4588C-B8B2-4189-A456-CF34F517DDF1</string>
-		</dict>
-		<key>8918EA06-4C62-4B70-BA0E-BCD1FC7E5793</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>8918EA06-4C62-4B70-BA0E-BCD1FC7E5793.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>ScrollViewTest project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>ScrollViewTest</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build ScrollViewTest</string>
-			<key>timeStartedRecording</key>
-			<real>634327446.41144598</real>
-			<key>timeStoppedRecording</key>
-			<real>634327447.56119001</real>
-			<key>title</key>
-			<string>Build ScrollViewTest</string>
-			<key>uniqueIdentifier</key>
-			<string>8918EA06-4C62-4B70-BA0E-BCD1FC7E5793</string>
-		</dict>
-		<key>965567D4-B8DE-4DF8-B78E-E3BC7D169DFB</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>965567D4-B8DE-4DF8-B78E-E3BC7D169DFB.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>ScrollViewTest project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>ScrollViewTest</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build ScrollViewTest</string>
-			<key>timeStartedRecording</key>
-			<real>634327418.95701504</real>
-			<key>timeStoppedRecording</key>
-			<real>634327420.45229304</real>
-			<key>title</key>
-			<string>Build ScrollViewTest</string>
-			<key>uniqueIdentifier</key>
-			<string>965567D4-B8DE-4DF8-B78E-E3BC7D169DFB</string>
-		</dict>
-		<key>A0242782-FFCD-48A9-9BA6-F4FD38F73184</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A0242782-FFCD-48A9-9BA6-F4FD38F73184.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>ScrollViewTest project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>ScrollViewTest</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build ScrollViewTest</string>
-			<key>timeStartedRecording</key>
-			<real>634326984.24507701</real>
-			<key>timeStoppedRecording</key>
-			<real>634326989.69261396</real>
-			<key>title</key>
-			<string>Build ScrollViewTest</string>
-			<key>uniqueIdentifier</key>
-			<string>A0242782-FFCD-48A9-9BA6-F4FD38F73184</string>
-		</dict>
-		<key>AF485300-A155-4D87-845C-2BA6A7B29325</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>AF485300-A155-4D87-845C-2BA6A7B29325.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>ScrollViewTest project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>ScrollViewTest</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build ScrollViewTest</string>
-			<key>timeStartedRecording</key>
-			<real>634327153.42220497</real>
-			<key>timeStoppedRecording</key>
-			<real>634327159.59894001</real>
-			<key>title</key>
-			<string>Build ScrollViewTest</string>
-			<key>uniqueIdentifier</key>
-			<string>AF485300-A155-4D87-845C-2BA6A7B29325</string>
-		</dict>
-		<key>B4D17B33-16C2-4955-88D5-E7258BF58D5F</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>B4D17B33-16C2-4955-88D5-E7258BF58D5F.xcactivitylog</string>
+			<string>AEDC8840-AF41-4A75-9503-B9CE6AD7022B.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -338,13 +134,81 @@
 			<key>signature</key>
 			<string>Build ScrollViewTest</string>
 			<key>timeStartedRecording</key>
-			<real>634327435.51763594</real>
+			<real>634354333.18402505</real>
 			<key>timeStoppedRecording</key>
-			<real>634327436.83399796</real>
+			<real>634354335.46819198</real>
 			<key>title</key>
 			<string>Build ScrollViewTest</string>
 			<key>uniqueIdentifier</key>
-			<string>B4D17B33-16C2-4955-88D5-E7258BF58D5F</string>
+			<string>AEDC8840-AF41-4A75-9503-B9CE6AD7022B</string>
+		</dict>
+		<key>B39C3EB1-081C-4E77-BF5E-8999F82BAA6B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B39C3EB1-081C-4E77-BF5E-8999F82BAA6B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ScrollViewTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ScrollViewTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ScrollViewTest</string>
+			<key>timeStartedRecording</key>
+			<real>634355661.10529006</real>
+			<key>timeStoppedRecording</key>
+			<real>634355667.21315706</real>
+			<key>title</key>
+			<string>Build ScrollViewTest</string>
+			<key>uniqueIdentifier</key>
+			<string>B39C3EB1-081C-4E77-BF5E-8999F82BAA6B</string>
+		</dict>
+		<key>E8DAC6D9-F7E2-432B-86CE-FA199B7455D9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E8DAC6D9-F7E2-432B-86CE-FA199B7455D9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ScrollViewTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ScrollViewTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean ScrollViewTest</string>
+			<key>timeStartedRecording</key>
+			<real>634328092.45067501</real>
+			<key>timeStoppedRecording</key>
+			<real>634328092.5474</real>
+			<key>title</key>
+			<string>Clean ScrollViewTest</string>
+			<key>uniqueIdentifier</key>
+			<string>E8DAC6D9-F7E2-432B-86CE-FA199B7455D9</string>
 		</dict>
 	</dict>
 </dict>
