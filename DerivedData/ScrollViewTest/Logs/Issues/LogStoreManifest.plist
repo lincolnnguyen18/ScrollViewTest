@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>A090AF79-239B-4B2B-B9C4-7A1FEA1B3C6F</key>
+		<key>1DE010DB-72A0-4898-A1CF-CCE346970BD3</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>A090AF79-239B-4B2B-B9C4-7A1FEA1B3C6F.xcactivitylog</string>
+			<string>1DE010DB-72A0-4898-A1CF-CCE346970BD3.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,13 +26,13 @@
 			<key>signature</key>
 			<string>ScrollViewTest-csazavruajzdpmaygqqjtwocgusm</string>
 			<key>timeStartedRecording</key>
-			<real>634355661.16613305</real>
+			<real>634356453.07240903</real>
 			<key>timeStoppedRecording</key>
-			<real>634355667.20472205</real>
+			<real>634356453.61648202</real>
 			<key>title</key>
 			<string>Build target ScrollViewTest</string>
 			<key>uniqueIdentifier</key>
-			<string>A090AF79-239B-4B2B-B9C4-7A1FEA1B3C6F</string>
+			<string>1DE010DB-72A0-4898-A1CF-CCE346970BD3</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>
